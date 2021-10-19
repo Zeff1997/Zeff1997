@@ -1,6 +1,6 @@
 ### Olá, meu nome é Daniel Silva Borges
 
- 🌱 No momento estou aprendendo inglês e kottlin.                                                                                                                                 
+ 🌱 No momento estou aprendendo inglês e kotlin.                                                                                                                                 
  📫 Contato: danielsilvaborges777@hotmail.com
 
 <div align="center">
