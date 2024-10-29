@@ -18,12 +18,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Zeff1997&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeff1997&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
-
+   
 <div style="display: inline_block" align="center"><br>
- 
-  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg">
- 
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+
  ## 
   
 <div align="center"> 
