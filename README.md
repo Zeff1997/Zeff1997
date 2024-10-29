@@ -3,6 +3,8 @@
  Seja bem vindo ao meu perfil do GitHub!
  Espero me tornar um ótimo Engenheiro de Software futuramente, enquanto isso busco aprimorar meus conhecimentos.
 
+ 
+
  🌱 Estou atualmente aprendendo mais sobre Java, Spring Boot e estudando para melhorar meu inglês.
  
  🌱 Nivel de inglês: intermediário 
@@ -19,8 +21,8 @@
 
 <div style="display: inline_block" align="center"><br>
  
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg">
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/java/java-original-wordmark.svg">
  
  ## 
   
